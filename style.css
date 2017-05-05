@@ -1,0 +1,320 @@
+body, html {
+	font-family: 'Raleway', sans-serif;
+	color: #777;
+	font-weight: 300;
+	width: 100% !important;
+	height: 100% !important;
+}
+hr {
+	height: 2px;
+	width: 70px;
+	background: #8eb640;
+}
+nav{
+	background-color: transparent;
+}
+a.logo{
+	font-style: italic;
+	font-family: 'Comic Sans';
+	font-size: 30px;
+	padding-right:1000px;
+	margin-top: 20px;
+	text-decoration: none;
+	color:#8eb640;
+
+}
+div.about-img{
+	border:1px solid white;
+
+}
+ul {
+	background-color: transparent;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+    padding-right:120px;
+}
+
+li {
+    display: inline-flex;
+}
+
+li a {
+	background-color: transparent;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+}
+li a:hover{
+	color: #8eb640;
+}
+
+header{
+	padding-top: 0px;
+	padding-bottom: 200px;
+	background-image: url(pozadina.jpg);
+	min-height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align:center;
+}
+div.pocetna{
+	font-size: 25px;
+	color: white;
+}
+a.onama{
+	padding-top: 10PX;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #8eb640;
+	text-decoration: none;
+	font-size: 20px;
+}
+h1{
+	font-style: italic;
+	font-family: 'comic mc';
+	color: white;
+	font-size:110px;
+	padding-top:120px;
+}
+p{
+	padding-top:5px;
+	padding-bottom:30px;
+}
+h2 {
+	font-weight: 500;
+	font-size: 34px;
+	color: #333;
+	text-transform: uppercase;
+}
+h2.menii{
+	color: white;
+}
+h3 {
+	font-size: 22px;
+	font-weight: 500;
+	color: white;
+}
+h3.about{
+	color: #333;
+}
+h4 {
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: 400;
+	color: #333;
+}
+h5 {
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 20px;
+}
+}
+a:hover, a:focus {
+	text-decoration: none;
+	color:  #222;
+}
+a.onama{
+	color: white;
+}
+a.onama:hover {
+	background-blend-mode: soft-light;
+}
+}
+ul {
+	list-style: none;
+}
+div.about{
+	padding: 120px 0;
+}
+div.about-text {
+	padding-top:0px;
+	padding-right: 100px;
+}
+div.about-img{
+	float: left;
+	padding:110px;
+	padding-top:0px;
+	}
+
+div.malimeni{
+	padding-top: 35px;
+	text-align: center;
+	background: url(pozadina2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	transition: all 0.8s;
+	color: white;
+	padding-bottom: 35px;
+	font-size: 20px;
+}
+div.container{
+	background-color: white;
+	padding: 0px;
+	margin:0px;
+}
+div.red{
+padding-right:60px;
+padding-left:60px;
+margin: 0px;
+}
+div.deo1{
+	float: left;
+	margin: 0px;
+}
+div.deo2{
+	float: right;
+	margin: 0px;
+}
+div.cena{
+	float: right;
+	margin: 0px;
+}
+div.opis{
+	font-size: 15px;
+	margin: 0px;
+}
+h2.naslov{
+	text-align: center;
+	font-size: 25px;
+	padding: 0px;
+	margin:15px;
+}
+div.gallery{
+	margin: 0px;
+	padding-top:25px;
+	text-align: center;
+	background-image: url(pozadina4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	color: white;
+	}
+	h2.img{
+		color: white;
+	}
+div.img{
+	text-align: center;
+	color: black;
+}
+ul.cat{
+	text-align: center;
+	color: black;
+	margin: 20px;
+}
+li.dva{
+	color: black;
+	border: 1px solid: #999;
+	background-color: #999;
+	text-align: center;
+	margin: 20px;
+	width: 90px;
+	height: 40px;
+}
+a.dva{
+	color: black;
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+div.chefs{
+background-image: url(pozadina4.jpg);
+background-attachment: fixed;
+background-repeat:no-repeat;
+background-size: cover;
+text-align: center;
+padding-bottom: 750px;
+color: white;
+}
+h2.chefs{
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+}
+div.slike{
+	padding: 25px;
+	margin: 66px;
+	width:250px;
+	float:left
+}
+div.container2{
+	background-color:#8eb640;
+	color: white;
+	padding-top:30px;
+	padding-bottom: 60px;
+	margin: 0px;
+}
+h2.call{
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+div.container3{
+	text-align: center;
+	font-size: 25px;
+}
+div.email{
+
+}
+div.poruka{
+
+}
+button.posalji{
+
+}
+
+div.container4{
+	display: inline-flex;
+	width: 100%;
+	background-color: #262626;
+	height: 205px;
+	text-align: center;
+	padding-left:200px;
+	width: 85%;
+}
+div.posebno{
+	margin-left:50px;
+	margin-right:50px;
+	padding-top: 20px;
+}
+footer{
+	clear: both;
+	background: #262626;
+	padding:170px 0 0 0;
+	background-color: #8eb640;
+	color: white;
+	text-align: center;
+	padding-bottom: 80px;
+	padding-top:20px;
+	margin: 0px;
+}
+
+h3.footer{
+	padding-top: 20px;
+	color: #8eb640;
+	font-size: 18px;
+	text-align: center;
+}
+div.kontakt{
+	text-align: center;
+}
+div.ime{
+	border-bottom: dotted;
+	border-color: #989;
+
+}
+div.opis{
+	font-size: 15px;
+}
+	
